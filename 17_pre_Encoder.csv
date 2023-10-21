@@ -1,0 +1,644 @@
+Age,Gender,family_history,no_employees,benefits,care_options,wellness_program,anonymity,leave,coworkers,supervisor,phys_health_interview,work_treatment_interfere,work_no_treatment_interfere,Continent,treatment
+27.0,f,No,100-500,No,Yes,No,Don't know,Don't know,Yes,Yes,Yes,Sometimes,Sometimes,Europe,1
+31.0,m,No,100-500,Yes,Yes,No,Don't know,Don't know,Yes,No,Yes,Not applicable to me,Sometimes,Europe,0
+36.0,m,Yes,6-25,Don't know,No,Don't know,Yes,Very difficult,Maybe,No,Maybe,Sometimes,Sometimes,North America,1
+22.0,m,I don't know,More than 1000,Yes,Yes,Don't know,Yes,Very difficult,Yes,Maybe,No,Sometimes,Often,North America,1
+30.0,m,Yes,100-500,Yes,No,No,Yes,Somewhat easy,Maybe,Some of them,Maybe,Rarely,Not applicable to me,North America,0
+36.0,f,Yes,6-25,Yes,Yes,No,Yes,Very easy,No,Some of them,No,Rarely,Often,North America,1
+38.0,f,Yes,26-100,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,1
+35.0,m,I don't know,100-500,Don't know,No,No,Yes,Very easy,Maybe,No,No,Not applicable to me,Not applicable to me,Europe,0
+40.0,m,Yes,100-500,Yes,Yes,No,Don't know,Don't know,No,No,No,Often,Sometimes,North America,1
+35.0,m,Yes,100-500,Don't know,No,No,Don't know,Very difficult,No,No,No,Sometimes,Often,North America,0
+23.0,m,No,More than 1000,No,No,No,Don't know,Neither easy nor difficult,Yes,Maybe,No,Sometimes,Not applicable to me,Europe,0
+22.0,f,I don't know,More than 1000,Don't know,No,No,Don't know,Neither easy nor difficult,Maybe,No,Maybe,Sometimes,Often,North America,1
+34.0,f,Yes,26-100,Don't know,Not sure,Don't know,Yes,Very easy,Yes,Some of them,Yes,Sometimes,Sometimes,North America,1
+28.0,m,No,100-500,Yes,No,No,Don't know,Somewhat easy,Maybe,Yes,Maybe,Rarely,Often,North America,1
+38.0,m,No,26-100,No,No,No,Yes,Neither easy nor difficult,Yes,Yes,Yes,Never,Sometimes,Asia,0
+21.0,m,No,6-25,Don't know,No,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,Rarely,Sometimes,Europe,0
+35.0,f,Yes,More than 1000,Don't know,No,No,Don't know,Neither easy nor difficult,Maybe,Maybe,Yes,Not applicable to me,Not applicable to me,Europe,0
+22.0,m,Yes,6-25,No,No,No,Don't know,Neither easy nor difficult,No,Some of them,No,Sometimes,Sometimes,Europe,0
+18.0,m,Yes,100-500,Not eligible for coverage / N/A,Not sure,Yes,Yes,Somewhat difficult,Yes,Maybe,Yes,Never,Sometimes,Europe,1
+37.0,f,Yes,26-100,Don't know,No,No,Don't know,Very difficult,Yes,Maybe,No,Sometimes,Often,North America,1
+25.0,m,I don't know,1-5,No,Not sure,No,Don't know,Very difficult,Maybe,Maybe,No,Sometimes,Often,Europe,1
+40.0,m,I don't know,100-500,No,No,Yes,Don't know,Don't know,Maybe,No,Yes,Not applicable to me,Not applicable to me,North America,1
+33.0,m,Yes,6-25,No,No,No,Yes,Very easy,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,Asia,0
+66.0,f,Yes,More than 1000,Yes,No,No,Don't know,Somewhat difficult,No,No,No,Sometimes,Often,North America,1
+31.0,f,Yes,100-500,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Maybe,Rarely,Often,North America,1
+32.0,m,Yes,100-500,Yes,Yes,Yes,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Rarely,Sometimes,North America,1
+30.0,f,Yes,100-500,Yes,Yes,Don't know,Don't know,Somewhat difficult,No,No,No,Rarely,Sometimes,North America,1
+31.0,m,I don't know,100-500,Yes,Yes,No,Yes,Very easy,Maybe,Yes,Yes,Rarely,Often,North America,1
+46.0,m,Yes,100-500,Not eligible for coverage / N/A,Not sure,No,Don't know,Somewhat easy,Yes,Maybe,Maybe,Sometimes,Often,Europe,1
+28.0,f,Yes,More than 1000,Not eligible for coverage / N/A,No,No,Don't know,Don't know,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+34.0,f,I don't know,6-25,No,No,No,Don't know,Very difficult,No,No,Maybe,Rarely,Sometimes,Asia,1
+25.0,m,I don't know,26-100,Yes,Yes,No,No,Very difficult,Yes,Some of them,Yes,Rarely,Sometimes,North America,1
+35.0,m,I don't know,100-500,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Maybe,Sometimes,Often,North America,1
+40.0,m,No,100-500,Yes,Yes,No,Don't know,Somewhat easy,Yes,Some of them,Yes,Rarely,Rarely,North America,0
+32.0,m,I don't know,100-500,Don't know,No,No,Don't know,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Sometimes,North America,0
+39.0,m,Yes,100-500,Don't know,No,No,Don't know,Neither easy nor difficult,No,No,Yes,Rarely,Not applicable to me,North America,1
+33.0,m,Yes,500-1000,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,No,Never,Often,North America,1
+40.0,m,I don't know,100-500,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Maybe,Often,Often,North America,1
+42.0,m,I don't know,500-1000,Yes,No,No,Yes,Very easy,Maybe,Some of them,Maybe,Rarely,Sometimes,North America,1
+32.0,m,Yes,More than 1000,Don't know,No,Don't know,Don't know,Very difficult,No,Some of them,Yes,Sometimes,Often,North America,1
+27.0,f,I don't know,More than 1000,Yes,Yes,No,No,Somewhat difficult,Maybe,Yes,Maybe,Sometimes,Often,North America,1
+30.0,f,I don't know,6-25,No,Not sure,No,No,Very difficult,Maybe,No,Maybe,Often,Often,Asia,1
+39.0,m,Yes,26-100,Don't know,No,No,Don't know,Very difficult,Maybe,Maybe,Maybe,Sometimes,Sometimes,North America,1
+42.0,f,Yes,6-25,Yes,No,No,Don't know,Don't know,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+37.0,f,Yes,6-25,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Yes,Often,Often,North America,1
+38.0,f,Yes,500-1000,Don't know,Yes,No,Don't know,Very difficult,No,Some of them,Maybe,Sometimes,Often,North America,1
+47.0,m,No,More than 1000,Don't know,No,Don't know,Don't know,Very easy,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,Europe,0
+64.0,m,No,500-1000,Don't know,No,Yes,Don't know,Somewhat difficult,No,No,Maybe,Rarely,Sometimes,Europe,1
+28.0,m,Yes,100-500,No,Yes,No,Don't know,Somewhat difficult,No,No,Maybe,Sometimes,Often,North America,1
+37.0,m,No,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,Some of them,Yes,Not applicable to me,Not applicable to me,Europe,0
+30.0,f,Yes,26-100,Yes,Yes,Yes,Don't know,Very easy,Yes,Some of them,No,Sometimes,Often,Europe,1
+25.0,m,No,100-500,Don't know,No,No,Don't know,Somewhat easy,Yes,Yes,Maybe,Not applicable to me,Not applicable to me,Europe,0
+25.0,f,Yes,26-100,No,Not sure,No,Yes,Very easy,No,No,Maybe,Often,Often,Europe,0
+61.0,m,I don't know,500-1000,Yes,Yes,Yes,Don't know,Neither easy nor difficult,Maybe,No,No,Rarely,Rarely,Europe,1
+26.0,m,No,More than 1000,No,No,No,Don't know,Don't know,No,No,No,Not applicable to me,Not applicable to me,Asia,0
+44.0,f,Yes,More than 1000,Yes,Yes,Yes,Don't know,Neither easy nor difficult,Yes,No,Maybe,Sometimes,Often,North America,1
+26.0,m,I don't know,6-25,No,No,No,Don't know,Don't know,No,Maybe,Yes,Sometimes,Often,Europe,1
+26.0,f,Yes,26-100,Yes,No,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,Often,Often,Europe,1
+35.0,f,I don't know,6-25,Don't know,No,No,Yes,Neither easy nor difficult,Maybe,Some of them,No,Sometimes,Sometimes,North America,1
+45.0,m,No,26-100,Yes,Yes,No,Don't know,Very easy,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+23.0,m,I don't know,26-100,Don't know,No,No,Don't know,Somewhat easy,Yes,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+44.0,m,No,More than 1000,Yes,Yes,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+38.0,m,I don't know,More than 1000,Yes,No,Yes,Yes,Neither easy nor difficult,Maybe,Some of them,No,Rarely,Sometimes,North America,1
+46.0,m,Yes,500-1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,No,Rarely,Often,North America,1
+27.0,other,I don't know,500-1000,Yes,No,Yes,Don't know,Somewhat difficult,No,No,Maybe,Sometimes,Often,North America,1
+39.0,f,Yes,100-500,Yes,Yes,Don't know,Yes,Very difficult,Maybe,No,No,Rarely,Often,North America,1
+33.0,f,Yes,26-100,Don't know,No,No,Don't know,Don't know,No,Some of them,Maybe,Sometimes,Often,North America,1
+35.0,m,No,26-100,Not eligible for coverage / N/A,Not sure,No,Don't know,Very difficult,No,Maybe,No,Not applicable to me,Not applicable to me,Europe,0
+32.0,m,No,More than 1000,No,No,No,Don't know,Neither easy nor difficult,Maybe,No,No,Sometimes,Rarely,Europe,1
+26.0,f,I don't know,More than 1000,Yes,Yes,Don't know,Don't know,Somewhat easy,No,No,No,Rarely,Often,North America,0
+50.0,other,Yes,100-500,Yes,Yes,No,Don't know,Somewhat difficult,Maybe,No,Yes,Rarely,Often,North America,1
+31.0,m,Yes,100-500,Don't know,Yes,Don't know,Don't know,Somewhat easy,Yes,Some of them,Maybe,Rarely,Not applicable to me,North America,1
+46.0,m,Yes,More than 1000,Don't know,No,Yes,Don't know,Somewhat difficult,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,Europe,0
+30.0,m,Yes,26-100,Yes,No,No,Yes,Somewhat easy,Maybe,No,Maybe,Rarely,Often,North America,1
+30.0,m,I don't know,More than 1000,Yes,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+34.0,m,No,100-500,No,No,No,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Often,Europe,1
+42.0,m,No,More than 1000,Yes,Yes,Yes,Yes,Very difficult,No,No,Maybe,Not applicable to me,Not applicable to me,Europe,0
+24.0,f,Yes,More than 1000,Yes,Yes,Yes,No,Somewhat difficult,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+23.0,m,I don't know,26-100,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+31.0,f,Yes,100-500,Yes,Yes,No,Don't know,Somewhat easy,No,No,No,Rarely,Often,North America,1
+31.0,m,I don't know,26-100,No,No,No,Don't know,Don't know,Maybe,No,Yes,Rarely,Sometimes,Europe,0
+27.0,f,Yes,100-500,Yes,Yes,No,Don't know,Somewhat easy,Yes,No,Maybe,Sometimes,Often,North America,1
+52.0,f,Yes,500-1000,Yes,Yes,No,Don't know,Somewhat difficult,No,No,No,Not applicable to me,Not applicable to me,North America,0
+37.0,m,I don't know,1-5,No,No,No,Don't know,Don't know,No,No,Maybe,Rarely,Often,North America,0
+37.0,m,No,500-1000,No,Not sure,Yes,No,Somewhat easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+38.0,m,Yes,More than 1000,Yes,Yes,No,Yes,Very easy,Yes,No,No,Rarely,Often,North America,1
+34.0,m,Yes,More than 1000,Yes,Yes,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Rarely,Sometimes,North America,1
+38.0,f,Yes,More than 1000,Yes,Yes,No,Don't know,Very difficult,No,No,No,Rarely,Sometimes,Europe,1
+30.0,m,I don't know,26-100,Don't know,No,No,Yes,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Sometimes,North America,1
+52.0,m,No,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,No,Rarely,Rarely,North America,0
+26.0,f,Yes,6-25,Don't know,No,No,Don't know,Very difficult,No,Maybe,No,Not applicable to me,Not applicable to me,Europe,0
+29.0,f,I don't know,26-100,Yes,No,No,Yes,Somewhat difficult,No,No,No,Often,Sometimes,North America,1
+44.0,m,Yes,More than 1000,Yes,Yes,No,Yes,Don't know,Maybe,Some of them,Yes,Often,Often,North America,1
+42.0,m,Yes,More than 1000,Not eligible for coverage / N/A,Not sure,Yes,Yes,Very easy,Yes,Some of them,No,Rarely,Sometimes,Oceania,1
+30.0,m,Yes,6-25,Yes,Yes,No,Yes,Somewhat easy,No,No,No,Sometimes,Often,North America,1
+29.0,m,I don't know,100-500,Yes,No,Yes,Don't know,Very easy,Yes,Maybe,No,Never,Sometimes,North America,1
+27.0,f,Yes,More than 1000,Yes,Yes,Yes,Don't know,Neither easy nor difficult,Maybe,Maybe,No,Sometimes,Often,North America,1
+39.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Maybe,Rarely,Often,North America,1
+40.0,f,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,1
+36.0,f,Yes,More than 1000,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,Maybe,Sometimes,Sometimes,North America,1
+43.0,m,No,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+38.0,m,Yes,100-500,Yes,Yes,Don't know,Yes,Neither easy nor difficult,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+42.0,m,I don't know,26-100,Don't know,No,No,Don't know,Somewhat easy,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,1
+46.0,m,I don't know,500-1000,No,Not sure,Yes,Yes,Neither easy nor difficult,Yes,Some of them,Yes,Sometimes,Often,Europe,1
+30.0,m,Yes,More than 1000,Yes,Yes,No,Yes,Very difficult,Yes,Yes,No,Sometimes,Often,North America,1
+25.0,m,Yes,6-25,No,Yes,No,No,Very difficult,Yes,Maybe,Maybe,Rarely,Often,Europe,1
+28.0,other,Yes,500-1000,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+24.0,f,Yes,100-500,Yes,Yes,No,Don't know,Neither easy nor difficult,Yes,No,Maybe,Not applicable to me,Not applicable to me,Europe,1
+26.0,m,Yes,1-5,Don't know,No,No,Don't know,Very difficult,No,No,Maybe,Not applicable to me,Not applicable to me,Europe,0
+43.0,m,Yes,More than 1000,Yes,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+25.0,f,I don't know,More than 1000,Yes,Yes,No,Don't know,Don't know,No,Some of them,No,Often,Often,North America,1
+34.0,m,Yes,More than 1000,Yes,No,Yes,Don't know,Don't know,No,No,Yes,Rarely,Often,North America,0
+28.0,f,No,26-100,Yes,Yes,Yes,Yes,Very easy,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+27.0,m,I don't know,26-100,No,Not sure,No,Yes,Somewhat difficult,Maybe,Some of them,Yes,Sometimes,Often,Africa,1
+22.0,m,No,26-100,No,No,Yes,Yes,Somewhat easy,Yes,Maybe,Maybe,Sometimes,Sometimes,Asia,0
+24.0,f,Yes,26-100,Don't know,No,No,Yes,Very easy,Yes,Maybe,No,Not applicable to me,Not applicable to me,Europe,0
+26.0,f,I don't know,26-100,No,Not sure,No,Don't know,Don't know,No,Maybe,Yes,Often,Often,Europe,0
+24.0,m,No,1-5,Don't know,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Not applicable to me,Often,North America,0
+54.0,m,I don't know,More than 1000,Don't know,No,No,Don't know,Don't know,Yes,Some of them,Yes,Sometimes,Sometimes,North America,1
+47.0,m,Yes,More than 1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Yes,Maybe,Sometimes,Sometimes,North America,1
+33.0,m,No,More than 1000,No,Not sure,No,Don't know,Very easy,Yes,Yes,Yes,Not applicable to me,Not applicable to me,Europe,0
+30.0,other,Yes,100-500,Yes,Yes,No,Yes,Somewhat easy,Yes,Some of them,No,Rarely,Often,North America,1
+48.0,m,I don't know,More than 1000,Yes,Yes,No,Don't know,Don't know,Maybe,Some of them,Yes,Rarely,Rarely,North America,1
+35.0,m,Yes,More than 1000,Don't know,No,Don't know,Yes,Somewhat easy,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+34.0,m,I don't know,26-100,Don't know,No,No,Don't know,Somewhat easy,Yes,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+25.0,m,Yes,500-1000,Yes,Yes,No,Yes,Somewhat easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+48.0,m,Yes,More than 1000,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,Never,Sometimes,Europe,1
+34.0,m,I don't know,100-500,Yes,No,Yes,Don't know,Don't know,No,No,No,Rarely,Often,North America,1
+42.0,m,Yes,100-500,Yes,Yes,No,Don't know,Very difficult,No,No,No,Rarely,Sometimes,North America,1
+27.0,m,Yes,100-500,Don't know,No,No,Don't know,Very easy,Yes,Maybe,Yes,Rarely,Often,North America,1
+33.0,f,Yes,More than 1000,Yes,Yes,No,Yes,Somewhat difficult,Maybe,Maybe,Yes,Sometimes,Often,North America,1
+27.0,f,I don't know,26-100,Yes,Yes,No,Don't know,Very easy,Yes,Yes,No,Rarely,Often,North America,1
+48.0,m,I don't know,500-1000,Yes,No,No,Don't know,Don't know,Yes,Some of them,No,Sometimes,Rarely,North America,0
+32.0,f,I don't know,More than 1000,Yes,Yes,No,Yes,Somewhat easy,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+29.0,m,Yes,100-500,Yes,No,Yes,Don't know,Somewhat difficult,Yes,Some of them,No,Sometimes,Often,North America,1
+23.0,f,No,100-500,Don't know,No,No,Don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,Sometimes,Sometimes,North America,0
+50.0,f,I don't know,More than 1000,Yes,No,Don't know,Yes,Somewhat difficult,No,No,No,Rarely,Sometimes,North America,0
+29.0,f,No,6-25,No,No,No,Don't know,Don't know,No,No,Maybe,Not applicable to me,Not applicable to me,Europe,0
+42.0,f,Yes,More than 1000,Yes,No,Don't know,Don't know,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Sometimes,North America,0
+22.0,m,I don't know,100-500,Don't know,No,No,Don't know,Very easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+39.0,f,I don't know,500-1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Some of them,Maybe,Rarely,Often,North America,1
+29.0,f,Yes,6-25,Yes,No,No,Don't know,Somewhat difficult,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+36.0,f,Yes,1-5,Not eligible for coverage / N/A,Not sure,Yes,Don't know,Don't know,Maybe,Some of them,No,Often,Often,Europe,1
+30.0,f,Yes,100-500,Don't know,No,No,Don't know,Somewhat easy,No,Maybe,Maybe,Sometimes,Sometimes,Europe,1
+31.0,m,Yes,6-25,No,Not sure,No,Don't know,Very easy,Maybe,Maybe,No,Sometimes,Often,Africa,1
+28.0,m,No,6-25,Yes,Yes,No,Don't know,Don't know,Maybe,Yes,Maybe,Sometimes,Often,North America,1
+28.0,m,I don't know,26-100,Yes,Yes,No,Don't know,Very easy,Maybe,Maybe,Yes,Not applicable to me,Not applicable to me,North America,0
+25.0,f,Yes,More than 1000,Don't know,Yes,No,Don't know,Very difficult,Maybe,Maybe,No,Rarely,Often,North America,1
+30.0,m,I don't know,26-100,Don't know,No,No,Don't know,Somewhat easy,Yes,Some of them,No,Rarely,Sometimes,Europe,1
+31.0,m,No,100-500,Don't know,No,No,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,0
+36.0,m,No,100-500,No,No,No,Yes,Very easy,Maybe,No,No,Not applicable to me,Not applicable to me,Europe,0
+37.0,m,Yes,6-25,Don't know,No,No,Yes,Neither easy nor difficult,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,South America,0
+37.0,m,No,26-100,Yes,Yes,No,Yes,Somewhat easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+37.0,m,No,26-100,Not eligible for coverage / N/A,Yes,No,Yes,Somewhat easy,Maybe,Some of them,No,Rarely,Rarely,Europe,1
+37.0,m,No,26-100,No,Not sure,No,Don't know,Very easy,No,Some of them,No,Not applicable to me,Not applicable to me,Europe,0
+33.0,m,No,100-500,Don't know,No,No,Don't know,Somewhat difficult,No,Some of them,Yes,Not applicable to me,Not applicable to me,Europe,0
+47.0,f,No,500-1000,Yes,No,No,Don't know,Very easy,No,No,Yes,Not applicable to me,Never,North America,0
+24.0,f,I don't know,100-500,Don't know,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,No,Rarely,Sometimes,North America,1
+26.0,m,Yes,100-500,Yes,Yes,No,Don't know,Don't know,Maybe,Maybe,No,Often,Often,North America,1
+37.0,m,I don't know,More than 1000,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Maybe,Never,Never,Oceania,1
+29.0,m,I don't know,More than 1000,Yes,Yes,Yes,No,Neither easy nor difficult,Yes,No,No,Sometimes,Often,North America,1
+33.0,f,Yes,26-100,Don't know,No,No,Don't know,Somewhat difficult,No,No,No,Rarely,Often,North America,1
+44.0,m,Yes,More than 1000,Yes,No,Yes,Don't know,Somewhat easy,Yes,Some of them,Yes,Rarely,Often,North America,1
+34.0,f,Yes,More than 1000,Yes,Yes,Yes,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Sometimes,North America,1
+35.0,m,Yes,More than 1000,Yes,No,Yes,Don't know,Don't know,No,No,No,Not applicable to me,Not applicable to me,North America,0
+32.0,other,I don't know,100-500,Yes,Yes,No,Don't know,Very easy,Yes,Some of them,Yes,Sometimes,Often,North America,1
+31.0,m,Yes,More than 1000,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,Not applicable to me,Not applicable to me,North America,0
+30.0,m,Yes,100-500,Yes,Yes,No,Yes,Neither easy nor difficult,Maybe,Some of them,Yes,Sometimes,Sometimes,North America,1
+26.0,f,Yes,More than 1000,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,Maybe,Rarely,Sometimes,North America,1
+29.0,f,Yes,100-500,Yes,Yes,No,Don't know,Somewhat easy,Yes,Some of them,Maybe,Rarely,Sometimes,Europe,1
+35.0,m,No,More than 1000,Yes,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Rarely,Sometimes,North America,0
+26.0,f,Yes,More than 1000,Don't know,No,Don't know,Don't know,Somewhat easy,No,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+30.0,m,Yes,100-500,Don't know,No,No,Don't know,Neither easy nor difficult,No,Yes,No,Rarely,Rarely,North America,1
+39.0,m,Yes,500-1000,Yes,Yes,No,Yes,Very easy,No,No,No,Not applicable to me,Not applicable to me,North America,0
+29.0,m,No,26-100,No,Not sure,No,Yes,Neither easy nor difficult,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,Europe,0
+27.0,m,I don't know,26-100,No,Not sure,No,Don't know,Don't know,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,0
+29.0,m,No,26-100,No,Not sure,No,Don't know,Don't know,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,0
+43.0,m,Yes,26-100,No,Not sure,No,Don't know,Neither easy nor difficult,Yes,Some of them,Maybe,Rarely,Often,Europe,0
+31.0,m,No,6-25,No,No,No,Don't know,Somewhat easy,Yes,Maybe,No,Not applicable to me,Not applicable to me,Europe,0
+27.0,f,No,26-100,No,No,No,No,Neither easy nor difficult,Yes,Maybe,No,Rarely,Often,Europe,0
+36.0,m,Yes,26-100,Yes,No,No,Don't know,Somewhat easy,Yes,Yes,Yes,Not applicable to me,Not applicable to me,Europe,0
+44.0,f,Yes,500-1000,Yes,Yes,Yes,Yes,Very easy,Yes,Some of them,Yes,Rarely,Sometimes,North America,1
+44.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,No,Yes,Not applicable to me,Not applicable to me,North America,0
+27.0,f,No,More than 1000,Yes,Yes,No,Yes,Very easy,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+42.0,f,Yes,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,Yes,Yes,Rarely,Often,North America,1
+28.0,m,Yes,More than 1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Some of them,Maybe,Rarely,Rarely,North America,1
+43.0,m,No,6-25,Yes,Yes,Yes,Yes,Very easy,Maybe,Some of them,Yes,Sometimes,Sometimes,North America,1
+49.0,f,Yes,More than 1000,Yes,Yes,Yes,No,Very easy,No,No,No,Rarely,Sometimes,North America,1
+32.0,m,I don't know,6-25,Don't know,No,No,Don't know,Neither easy nor difficult,Maybe,Maybe,Yes,Often,Often,Europe,1
+33.0,m,I don't know,100-500,Don't know,No,No,Don't know,Don't know,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+45.0,m,Yes,6-25,No,Yes,No,Don't know,Neither easy nor difficult,No,No,No,Sometimes,Sometimes,North America,0
+25.0,f,I don't know,26-100,Don't know,No,No,Don't know,Very difficult,Maybe,No,Yes,Sometimes,Often,North America,1
+42.0,m,Yes,26-100,Yes,Yes,No,Don't know,Very difficult,No,Some of them,Maybe,Often,Often,North America,1
+25.0,m,Yes,6-25,Yes,No,No,Don't know,Neither easy nor difficult,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+25.0,f,Yes,100-500,Yes,No,No,Don't know,Very difficult,Maybe,No,No,Sometimes,Sometimes,North America,1
+31.0,f,Yes,500-1000,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Yes,Not applicable to me,Not applicable to me,Europe,0
+22.0,f,I don't know,26-100,Yes,Yes,Yes,Don't know,Don't know,No,Maybe,No,Not applicable to me,Not applicable to me,North America,0
+40.0,m,Yes,More than 1000,No,No,No,No,Very difficult,Yes,Some of them,Yes,Sometimes,Sometimes,Asia,0
+28.0,m,I don't know,26-100,Don't know,No,No,Don't know,Neither easy nor difficult,Yes,Some of them,No,Rarely,Sometimes,North America,1
+37.0,m,I don't know,100-500,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+35.0,m,I don't know,More than 1000,Yes,No,No,Don't know,Very difficult,No,Maybe,Yes,Often,Often,North America,1
+20.0,m,Yes,26-100,Don't know,No,No,Don't know,Somewhat difficult,Maybe,Maybe,No,Not applicable to me,Sometimes,Europe,0
+27.0,f,No,More than 1000,Yes,No,No,No,Very easy,Maybe,No,Maybe,Sometimes,Often,Europe,0
+62.0,f,No,100-500,Yes,Yes,Yes,Yes,Somewhat difficult,No,Some of them,No,Rarely,Rarely,North America,0
+29.0,m,I don't know,26-100,Don't know,No,No,Don't know,Neither easy nor difficult,No,Some of them,Maybe,Not applicable to me,Sometimes,Europe,0
+37.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Sometimes,Often,Europe,1
+51.0,m,Yes,More than 1000,Yes,No,No,Don't know,Somewhat difficult,Maybe,Some of them,No,Sometimes,Often,North America,1
+60.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,North America,1
+36.0,f,Yes,100-500,Yes,No,No,Yes,Somewhat easy,Maybe,No,Maybe,Sometimes,Often,North America,0
+38.0,m,I don't know,26-100,Don't know,No,Don't know,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,1
+30.0,f,No,100-500,Don't know,No,Yes,Don't know,Neither easy nor difficult,Maybe,Some of them,Yes,Sometimes,Sometimes,North America,1
+35.0,m,Yes,100-500,Don't know,No,Yes,Don't know,Very easy,Yes,Yes,Yes,Often,Often,Europe,1
+41.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,Some of them,Yes,Rarely,Sometimes,Europe,1
+27.0,m,No,1-5,Don't know,No,No,Don't know,Don't know,Maybe,Maybe,No,Not applicable to me,Sometimes,North America,1
+53.0,m,No,100-500,No,No,No,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Never,Never,Europe,1
+42.0,f,I don't know,6-25,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Maybe,Rarely,Sometimes,North America,0
+33.0,m,Yes,26-100,No,Yes,No,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Sometimes,Europe,0
+25.0,other,Yes,100-500,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Yes,Rarely,Often,North America,1
+40.0,m,Yes,6-25,Don't know,No,No,Yes,Very easy,Maybe,Some of them,No,Never,Rarely,North America,1
+25.0,f,Yes,6-25,Yes,Yes,No,Yes,Very easy,Yes,Some of them,Yes,Sometimes,Often,North America,1
+49.0,f,No,100-500,Don't know,No,No,Don't know,Don't know,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+44.0,f,Yes,6-25,No,Not sure,No,No,Very difficult,Maybe,Some of them,No,Sometimes,Often,North America,1
+30.0,m,No,100-500,Don't know,No,No,Don't know,Very difficult,Yes,No,No,Sometimes,Sometimes,North America,1
+28.0,m,Yes,100-500,Yes,No,Don't know,Don't know,Don't know,No,No,Maybe,Not applicable to me,Often,North America,0
+26.0,m,Yes,100-500,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Maybe,Maybe,Rarely,Often,North America,1
+31.0,m,Yes,26-100,Yes,No,Yes,Yes,Somewhat easy,Yes,No,No,Sometimes,Sometimes,North America,1
+32.0,m,Yes,6-25,Yes,No,No,No,Very easy,Yes,Some of them,No,Sometimes,Often,North America,1
+24.0,m,No,100-500,Don't know,No,Don't know,Don't know,Very easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+34.0,m,Yes,100-500,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+31.0,f,Yes,100-500,Yes,Yes,No,Yes,Very easy,Maybe,No,No,Sometimes,Often,North America,1
+47.0,m,No,100-500,Yes,Yes,Yes,Don't know,Very easy,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+59.0,m,I don't know,100-500,Yes,No,No,Yes,Neither easy nor difficult,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+44.0,m,Yes,100-500,Don't know,No,Don't know,Don't know,Somewhat easy,Yes,No,Yes,Rarely,Often,North America,1
+26.0,m,No,100-500,No,No,No,Don't know,Neither easy nor difficult,No,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+43.0,m,I don't know,1-5,Don't know,No,Yes,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Sometimes,Often,North America,0
+22.0,m,I don't know,1-5,Don't know,No,No,No,Somewhat difficult,No,Maybe,Yes,Not applicable to me,Often,Europe,0
+24.0,m,No,6-25,Not eligible for coverage / N/A,Not sure,No,No,Very easy,Maybe,Maybe,Yes,Rarely,Rarely,Europe,0
+35.0,m,Yes,500-1000,Don't know,No,No,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+40.0,m,No,26-100,Don't know,No,No,No,Don't know,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+30.0,m,Yes,100-500,Don't know,No,No,Yes,Somewhat easy,Maybe,Yes,Maybe,Rarely,Sometimes,North America,1
+37.0,m,I don't know,500-1000,Yes,Yes,Don't know,Yes,Very easy,Yes,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+27.0,m,No,1-5,No,No,No,Don't know,Somewhat easy,No,No,Yes,Sometimes,Sometimes,North America,1
+42.0,m,I don't know,100-500,Yes,Yes,No,Yes,Somewhat difficult,Maybe,No,No,Sometimes,Sometimes,North America,1
+49.0,m,No,100-500,Yes,Yes,Yes,Don't know,Don't know,Maybe,Some of them,No,Sometimes,Sometimes,North America,1
+40.0,m,I don't know,26-100,Yes,No,No,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Often,North America,1
+26.0,f,Yes,100-500,Yes,Yes,No,Yes,Very easy,Maybe,Some of them,No,Sometimes,Often,North America,1
+29.0,m,Yes,500-1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,No,Rarely,Often,North America,1
+39.0,f,Yes,26-100,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+40.0,m,Yes,More than 1000,Yes,Yes,Don't know,Yes,Somewhat difficult,Maybe,Some of them,No,Rarely,Often,North America,1
+23.0,m,No,26-100,No,No,No,Don't know,Somewhat easy,No,Maybe,Yes,Not applicable to me,Not applicable to me,Europe,0
+50.0,m,No,26-100,Don't know,No,Don't know,Don't know,Neither easy nor difficult,No,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+35.0,m,No,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Maybe,Never,Rarely,North America,1
+24.0,m,I don't know,100-500,Yes,Yes,No,Don't know,Neither easy nor difficult,No,Some of them,Yes,Not applicable to me,Not applicable to me,North America,1
+35.0,f,Yes,26-100,Yes,Yes,Yes,Don't know,Somewhat easy,No,Some of them,Maybe,Rarely,Sometimes,North America,1
+36.0,m,I don't know,26-100,Don't know,No,No,Yes,Very easy,No,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+50.0,f,I don't know,26-100,Yes,No,Don't know,No,Don't know,Maybe,Some of them,Maybe,Sometimes,Often,North America,0
+47.0,f,No,26-100,Don't know,No,No,Don't know,Don't know,Yes,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+30.0,m,No,26-100,Yes,No,No,Don't know,Neither easy nor difficult,Maybe,Maybe,No,Not applicable to me,Not applicable to me,North America,0
+30.0,m,Yes,100-500,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Sometimes,Often,North America,1
+32.0,m,Yes,100-500,Yes,Yes,No,Yes,Don't know,Yes,Maybe,No,Often,Often,North America,1
+38.0,other,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,No,Rarely,Sometimes,North America,1
+38.0,m,Yes,26-100,Don't know,No,No,Don't know,Neither easy nor difficult,Yes,Some of them,No,Sometimes,Often,North America,1
+38.0,m,Yes,100-500,Yes,Yes,Don't know,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+26.0,f,No,More than 1000,Yes,Yes,Don't know,Yes,Neither easy nor difficult,Maybe,Yes,No,Not applicable to me,Not applicable to me,North America,0
+45.0,f,Yes,More than 1000,Yes,Yes,No,No,Very difficult,No,No,No,Often,Often,North America,1
+37.0,f,No,500-1000,Yes,Yes,Yes,Yes,Somewhat easy,No,No,No,Not applicable to me,Not applicable to me,North America,0
+24.0,f,Yes,100-500,Don't know,No,No,Yes,Don't know,Maybe,Some of them,No,Sometimes,Often,North America,1
+33.0,f,Yes,100-500,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,No,Sometimes,Often,North America,1
+35.0,f,Yes,100-500,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+44.0,m,Yes,100-500,Yes,Yes,No,Yes,Neither easy nor difficult,Yes,Yes,Yes,Not applicable to me,Not applicable to me,North America,1
+27.0,f,Yes,100-500,Don't know,No,No,Don't know,Neither easy nor difficult,Yes,Maybe,Yes,Often,Rarely,North America,1
+33.0,m,No,100-500,Yes,No,No,Don't know,Very easy,Maybe,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+28.0,f,No,100-500,Don't know,No,Don't know,Yes,Very easy,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+35.0,m,Yes,More than 1000,Yes,Yes,Don't know,Yes,Don't know,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+23.0,m,No,More than 1000,Yes,Yes,No,Yes,Somewhat difficult,Maybe,Maybe,Maybe,Sometimes,Often,North America,1
+32.0,m,I don't know,6-25,Yes,Yes,No,Yes,Somewhat easy,Maybe,Maybe,No,Sometimes,Often,Europe,1
+31.0,m,No,100-500,Yes,No,No,Don't know,Very easy,Yes,Yes,Yes,Not applicable to me,Not applicable to me,Europe,1
+33.0,m,I don't know,6-25,No,Not sure,No,Don't know,Very easy,Yes,Some of them,No,Sometimes,Often,Europe,0
+37.0,m,No,100-500,No,Not sure,No,Yes,Very easy,Yes,Some of them,Yes,Sometimes,Sometimes,Europe,1
+27.0,m,No,6-25,Don't know,No,No,Don't know,Somewhat easy,No,No,Yes,Not applicable to me,Not applicable to me,Europe,0
+31.0,m,No,6-25,Yes,No,No,No,Neither easy nor difficult,Yes,Yes,No,Not applicable to me,Not applicable to me,Europe,0
+40.0,m,I don't know,More than 1000,No,No,No,Don't know,Somewhat difficult,Maybe,No,Maybe,Not applicable to me,Not applicable to me,Europe,1
+32.0,m,No,More than 1000,No,Yes,No,Don't know,Very easy,Yes,Some of them,Maybe,Rarely,Often,Europe,1
+33.0,m,Yes,100-500,Yes,No,Yes,Yes,Very easy,Yes,No,No,Sometimes,Often,North America,1
+21.0,other,I don't know,6-25,Don't know,No,No,Don't know,Somewhat difficult,Yes,No,No,Sometimes,Sometimes,North America,1
+36.0,m,I don't know,More than 1000,Yes,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+44.0,f,Yes,6-25,No,No,Yes,Don't know,Somewhat easy,Maybe,Some of them,Yes,Sometimes,Often,Oceania,1
+57.0,m,I don't know,More than 1000,Yes,No,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Not applicable to me,Not applicable to me,North America,0
+38.0,f,I don't know,6-25,Don't know,No,No,Don't know,Don't know,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+27.0,f,Yes,100-500,Yes,No,No,Don't know,Somewhat easy,Yes,Some of them,Yes,Sometimes,Sometimes,North America,1
+26.0,m,Yes,More than 1000,Not eligible for coverage / N/A,Not sure,Yes,Yes,Somewhat easy,Yes,Some of them,No,Rarely,Often,Oceania,1
+36.0,m,No,More than 1000,Yes,No,Yes,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Often,North America,1
+30.0,m,Yes,1-5,Not eligible for coverage / N/A,Not sure,Yes,Yes,Somewhat easy,Yes,Some of them,Maybe,Rarely,Rarely,Europe,0
+35.0,m,Yes,More than 1000,Yes,Yes,Don't know,Don't know,Very easy,Yes,No,No,Not applicable to me,Sometimes,Europe,1
+30.0,m,No,26-100,No,No,No,Don't know,Very easy,Yes,No,Maybe,Rarely,Sometimes,South America,0
+32.0,m,Yes,26-100,No,Not sure,No,Don't know,Neither easy nor difficult,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,Oceania,0
+35.0,m,No,100-500,Don't know,No,No,Don't know,Neither easy nor difficult,No,Maybe,No,Not applicable to me,Not applicable to me,Europe,0
+33.0,m,No,500-1000,Yes,Yes,No,Don't know,Very easy,Yes,Maybe,Yes,Not applicable to me,Not applicable to me,Oceania,0
+48.0,m,No,6-25,No,Not sure,No,Don't know,Very easy,Maybe,No,Maybe,Not applicable to me,Not applicable to me,Oceania,0
+32.0,m,No,26-100,No,Yes,No,Don't know,Somewhat easy,No,Some of them,No,Not applicable to me,Not applicable to me,Europe,0
+45.0,m,Yes,100-500,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,Maybe,Rarely,Often,Europe,1
+31.0,m,No,500-1000,Don't know,No,No,Don't know,Don't know,Maybe,Some of them,No,Not applicable to me,Not applicable to me,Europe,0
+40.0,m,No,More than 1000,Don't know,No,Yes,Don't know,Very easy,No,No,No,Not applicable to me,Not applicable to me,Europe,0
+37.0,m,I don't know,26-100,Don't know,No,No,Don't know,Very easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+29.0,m,No,100-500,No,No,No,Don't know,Don't know,No,No,No,Not applicable to me,Not applicable to me,Europe,0
+26.0,m,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,No,Sometimes,Often,North America,1
+51.0,f,I don't know,100-500,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,No,Rarely,Sometimes,North America,1
+33.0,f,No,26-100,Yes,Yes,Yes,Don't know,Don't know,Yes,No,No,Not applicable to me,Not applicable to me,North America,0
+27.0,m,Yes,100-500,Yes,Yes,No,Yes,Neither easy nor difficult,Yes,Some of them,No,Sometimes,Often,North America,1
+42.0,m,I don't know,6-25,Yes,No,No,Don't know,Somewhat difficult,No,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+47.0,m,No,6-25,Not eligible for coverage / N/A,Not sure,Yes,Yes,Neither easy nor difficult,Maybe,No,Yes,Not applicable to me,Not applicable to me,Oceania,0
+31.0,f,I don't know,26-100,Not eligible for coverage / N/A,Not sure,Yes,Don't know,Very easy,Yes,Some of them,Maybe,Never,Sometimes,Europe,1
+32.0,m,No,More than 1000,Don't know,No,Yes,Yes,Somewhat easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,0
+58.0,m,Yes,100-500,Don't know,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,Rarely,Sometimes,Europe,0
+42.0,f,I don't know,6-25,No,Not sure,No,Don't know,Somewhat difficult,No,No,No,Not applicable to me,Not applicable to me,Europe,0
+41.0,m,Yes,100-500,Don't know,Not sure,Don't know,Don't know,Neither easy nor difficult,No,No,Maybe,Rarely,Often,Europe,1
+25.0,m,No,More than 1000,Yes,Yes,No,Yes,Very easy,No,No,Yes,Sometimes,Rarely,Asia,0
+31.0,f,No,More than 1000,Yes,Yes,Yes,Yes,Very easy,No,Some of them,Yes,Often,Often,North America,1
+42.0,m,I don't know,26-100,No,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,Rarely,Sometimes,North America,1
+41.0,m,No,More than 1000,Yes,Yes,No,Yes,Very difficult,No,Maybe,No,Often,Often,North America,0
+35.0,other,Yes,More than 1000,Yes,Yes,No,Yes,Very easy,No,No,Yes,Sometimes,Often,North America,1
+24.0,m,No,More than 1000,Yes,Yes,No,No,Neither easy nor difficult,No,No,Maybe,Not applicable to me,Not applicable to me,North America,1
+37.0,m,Yes,More than 1000,Yes,No,Yes,Don't know,Don't know,Maybe,Some of them,No,Never,Often,North America,1
+32.0,m,No,More than 1000,Don't know,Not sure,Yes,Don't know,Neither easy nor difficult,No,No,Maybe,Not applicable to me,Not applicable to me,Asia,0
+34.0,m,No,500-1000,Yes,Yes,Yes,Yes,Very easy,Yes,Yes,Yes,Rarely,Rarely,Asia,0
+37.0,m,No,More than 1000,No,No,No,Don't know,Somewhat difficult,No,Some of them,No,Not applicable to me,Sometimes,Asia,1
+30.0,m,I don't know,26-100,No,No,Don't know,Don't know,Very difficult,No,No,Maybe,Sometimes,Often,North America,1
+27.0,m,I don't know,More than 1000,Don't know,No,No,Don't know,Don't know,No,No,Yes,Not applicable to me,Not applicable to me,Europe,0
+41.0,f,No,More than 1000,Yes,No,No,Don't know,Neither easy nor difficult,No,No,No,Not applicable to me,Not applicable to me,North America,0
+41.0,m,I don't know,6-25,Don't know,No,No,Don't know,Somewhat easy,No,Maybe,No,Rarely,Rarely,North America,1
+39.0,m,No,26-100,Yes,No,No,Don't know,Very difficult,No,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+42.0,m,No,More than 1000,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,Yes,Sometimes,Often,North America,1
+28.0,f,Yes,1-5,Yes,No,No,Yes,Very easy,Yes,No,Yes,Rarely,Sometimes,North America,1
+29.0,m,No,6-25,No,No,No,Don't know,Very difficult,Maybe,No,Yes,Sometimes,Often,North America,1
+46.0,m,No,More than 1000,Yes,No,No,Don't know,Very easy,Yes,Some of them,No,Not applicable to me,Not applicable to me,North America,1
+38.0,m,Yes,500-1000,Yes,Yes,Don't know,No,Somewhat difficult,Yes,Maybe,Maybe,Not applicable to me,Not applicable to me,Europe,0
+34.0,m,No,More than 1000,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Yes,Rarely,Rarely,North America,0
+28.0,m,Yes,6-25,Yes,No,No,Don't know,Don't know,Yes,Some of them,Maybe,Sometimes,Often,Europe,1
+28.0,f,Yes,26-100,No,No,No,Don't know,Very difficult,No,Maybe,No,Rarely,Sometimes,Europe,1
+38.0,m,No,26-100,Yes,Yes,No,Yes,Somewhat easy,Yes,Yes,Yes,Rarely,Not applicable to me,Europe,1
+33.0,m,Yes,More than 1000,Yes,No,No,Don't know,Somewhat easy,Yes,Some of them,No,Rarely,Often,North America,1
+38.0,f,I don't know,26-100,Yes,Yes,No,Yes,Don't know,Maybe,Some of them,Maybe,Rarely,Often,North America,0
+48.0,m,No,100-500,Don't know,No,No,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Rarely,Sometimes,North America,1
+44.0,f,I don't know,1-5,No,No,No,Yes,Very easy,Maybe,No,Maybe,Not applicable to me,Not applicable to me,Europe,0
+34.0,m,Yes,More than 1000,Yes,Yes,Yes,Don't know,Very easy,Yes,Some of them,No,Rarely,Rarely,North America,1
+29.0,f,No,100-500,No,No,No,Don't know,Don't know,Maybe,Maybe,Maybe,Sometimes,Often,North America,1
+39.0,m,Yes,More than 1000,No,No,Don't know,Don't know,Somewhat easy,No,No,No,Sometimes,Often,Europe,1
+41.0,m,No,100-500,Don't know,No,No,Don't know,Don't know,Maybe,Some of them,No,Rarely,Never,Europe,0
+33.0,m,Yes,100-500,Yes,No,No,Yes,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+44.0,m,No,More than 1000,Yes,No,Yes,Yes,Very easy,No,No,No,Not applicable to me,Not applicable to me,Europe,0
+33.0,f,Yes,100-500,Don't know,No,No,Don't know,Somewhat easy,No,No,No,Often,Often,North America,1
+26.0,f,No,26-100,Don't know,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Yes,Not applicable to me,Often,Europe,0
+28.0,m,No,26-100,Not eligible for coverage / N/A,Not sure,No,Don't know,Somewhat easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,Africa,0
+32.0,f,I don't know,6-25,Yes,Yes,No,Don't know,Somewhat difficult,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+35.0,f,No,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,No,Not applicable to me,Not applicable to me,Europe,0
+40.0,m,No,More than 1000,Don't know,No,Yes,Yes,Very easy,Yes,No,Yes,Not applicable to me,Not applicable to me,Europe,0
+30.0,m,I don't know,500-1000,Don't know,No,No,Yes,Somewhat easy,Maybe,No,No,Rarely,Often,North America,1
+34.0,m,Yes,More than 1000,Don't know,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,No,Not applicable to me,Sometimes,North America,0
+21.0,m,I don't know,26-100,Don't know,No,Don't know,Don't know,Somewhat easy,Yes,Maybe,Yes,Not applicable to me,Not applicable to me,North America,0
+37.0,m,Yes,More than 1000,Yes,Yes,No,Yes,Very easy,No,No,Maybe,Sometimes,Often,Europe,1
+33.0,m,I don't know,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,No,Maybe,Sometimes,Sometimes,Europe,1
+28.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,1
+41.0,m,I don't know,More than 1000,Yes,No,Yes,Yes,Don't know,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+34.0,m,No,26-100,No,Not sure,No,Yes,Somewhat easy,Maybe,No,Maybe,Not applicable to me,Not applicable to me,Europe,0
+28.0,m,I don't know,More than 1000,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,Some of them,Yes,Rarely,Sometimes,North America,1
+52.0,m,No,More than 1000,No,Not sure,No,Don't know,Somewhat difficult,Maybe,Maybe,Yes,Not applicable to me,Not applicable to me,Europe,0
+39.0,m,No,100-500,Don't know,No,No,Don't know,Very easy,Maybe,Some of them,No,Not applicable to me,Not applicable to me,Europe,0
+45.0,m,I don't know,6-25,Yes,No,No,Don't know,Very difficult,No,No,No,Not applicable to me,Often,North America,0
+27.0,m,I don't know,100-500,Don't know,No,No,Don't know,Neither easy nor difficult,Maybe,No,Maybe,Rarely,Often,Europe,1
+31.0,f,I don't know,More than 1000,Yes,Yes,No,Don't know,Neither easy nor difficult,No,Some of them,Maybe,Often,Often,North America,1
+44.0,m,I don't know,100-500,Don't know,Not sure,No,Don't know,Don't know,Maybe,Some of them,Maybe,Not applicable to me,Sometimes,Europe,0
+31.0,m,Yes,6-25,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Not applicable to me,Not applicable to me,Europe,0
+23.0,other,No,1-5,No,Not sure,No,No,Very difficult,No,Maybe,Maybe,Not applicable to me,Often,Europe,0
+23.0,m,I don't know,100-500,Yes,Yes,No,Don't know,Don't know,Yes,Some of them,No,Sometimes,Often,North America,1
+38.0,m,I don't know,100-500,Don't know,No,No,Don't know,Don't know,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,Europe,0
+37.0,m,Yes,26-100,Don't know,No,No,Don't know,Don't know,No,Maybe,Maybe,Not applicable to me,Sometimes,North America,0
+33.0,m,No,6-25,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,Rarely,Never,Europe,0
+47.0,m,No,More than 1000,Yes,Yes,Yes,Don't know,Somewhat difficult,No,No,Maybe,Sometimes,Sometimes,North America,1
+29.0,f,Yes,26-100,Don't know,No,No,Don't know,Somewhat easy,No,Maybe,Yes,Not applicable to me,Not applicable to me,North America,0
+38.0,m,No,More than 1000,Yes,No,Don't know,Don't know,Neither easy nor difficult,Maybe,Maybe,No,Not applicable to me,Not applicable to me,North America,0
+29.0,m,No,100-500,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+37.0,m,I don't know,100-500,Don't know,No,No,Don't know,Somewhat easy,Yes,Some of them,Yes,Sometimes,Often,North America,1
+29.0,f,Yes,100-500,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+27.0,f,Yes,6-25,Not eligible for coverage / N/A,Not sure,Don't know,Don't know,Somewhat easy,Yes,Yes,Maybe,Rarely,Often,North America,1
+38.0,f,No,More than 1000,Don't know,No,No,Don't know,Don't know,Yes,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+29.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Maybe,Rarely,Often,Europe,1
+24.0,m,Yes,100-500,No,Not sure,No,No,Somewhat difficult,No,No,No,Rarely,Sometimes,Europe,1
+30.0,f,Yes,26-100,No,No,Yes,Don't know,Somewhat easy,Yes,Some of them,Yes,Not applicable to me,Often,Europe,1
+32.0,m,I don't know,500-1000,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+37.0,m,Yes,100-500,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Maybe,Rarely,Sometimes,North America,1
+34.0,m,No,6-25,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,Not applicable to me,Not applicable to me,Oceania,0
+52.0,m,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,Yes,Yes,Not applicable to me,Not applicable to me,North America,1
+36.0,m,Yes,100-500,Yes,Yes,No,Don't know,Very difficult,No,No,No,Sometimes,Often,North America,0
+52.0,m,No,100-500,Yes,No,No,Yes,Neither easy nor difficult,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+49.0,f,No,100-500,Yes,Yes,No,Yes,Very easy,Yes,No,Yes,Not applicable to me,Not applicable to me,North America,0
+30.0,m,I don't know,More than 1000,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+41.0,m,Yes,6-25,Not eligible for coverage / N/A,No,No,Don't know,Very easy,Yes,Yes,Maybe,Sometimes,Often,Oceania,1
+29.0,m,Yes,More than 1000,Don't know,No,No,Don't know,Somewhat easy,Yes,Yes,No,Rarely,Sometimes,North America,0
+37.0,other,No,More than 1000,Yes,Yes,Yes,Don't know,Very easy,No,No,No,Sometimes,Often,North America,1
+29.0,f,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,No,Maybe,Sometimes,Often,North America,1
+39.0,f,Yes,500-1000,Yes,Yes,No,Yes,Very easy,Yes,Some of them,Maybe,Rarely,Often,North America,1
+30.0,f,Yes,100-500,Yes,Yes,Yes,Don't know,Very easy,Yes,Some of them,No,Often,Often,North America,1
+23.0,f,Yes,26-100,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Maybe,Rarely,Often,North America,1
+29.0,f,I don't know,More than 1000,Yes,No,Yes,Yes,Somewhat easy,No,Maybe,Maybe,Rarely,Sometimes,North America,1
+38.0,m,Yes,26-100,Yes,Yes,No,Yes,Very easy,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+41.0,f,Yes,More than 1000,Yes,Yes,No,Don't know,Don't know,No,No,Maybe,Sometimes,Often,North America,1
+47.0,m,No,100-500,Yes,Yes,No,Don't know,Very easy,Yes,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+56.0,f,Yes,6-25,Yes,Yes,No,Don't know,Somewhat difficult,No,Some of them,Maybe,Sometimes,Sometimes,North America,1
+22.0,m,I don't know,100-500,Don't know,No,No,Don't know,Very difficult,No,Some of them,Maybe,Rarely,Often,North America,0
+32.0,f,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,Some of them,No,Sometimes,Often,North America,1
+30.0,f,Yes,6-25,Don't know,No,No,No,Somewhat easy,Maybe,No,Maybe,Sometimes,Often,North America,1
+31.0,other,Yes,100-500,Yes,No,No,Don't know,Neither easy nor difficult,No,Some of them,Maybe,Sometimes,Often,North America,1
+36.0,m,No,100-500,Yes,Yes,Don't know,Yes,Very easy,Yes,Yes,No,Rarely,Often,North America,1
+32.0,m,Yes,100-500,Yes,Yes,No,Yes,Somewhat easy,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+37.0,f,Yes,6-25,Yes,Yes,No,Don't know,Somewhat easy,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+29.0,m,I don't know,6-25,Don't know,No,No,Yes,Somewhat difficult,No,Some of them,Yes,Rarely,Rarely,North America,1
+31.0,f,I don't know,26-100,Yes,Yes,No,Don't know,Somewhat easy,No,No,Maybe,Rarely,Often,North America,1
+39.0,m,Yes,100-500,Yes,Yes,No,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Not applicable to me,Sometimes,North America,1
+36.0,m,Yes,100-500,Don't know,No,Yes,No,Neither easy nor difficult,Maybe,Maybe,Maybe,Sometimes,Often,Asia,0
+38.0,m,No,More than 1000,Don't know,No,No,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Sometimes,Rarely,Europe,0
+33.0,f,No,100-500,Yes,No,Yes,Yes,Somewhat easy,Yes,Maybe,No,Rarely,Sometimes,North America,1
+38.0,m,I don't know,6-25,No,No,Don't know,Don't know,Neither easy nor difficult,Yes,Some of them,Maybe,Sometimes,Often,Asia,0
+36.0,f,Yes,100-500,Yes,No,Yes,Don't know,Neither easy nor difficult,Yes,No,Maybe,Sometimes,Often,North America,1
+30.0,f,I don't know,100-500,No,Not sure,No,Don't know,Somewhat easy,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+38.0,m,I don't know,26-100,Yes,Yes,Yes,Don't know,Somewhat difficult,Yes,Maybe,Maybe,Often,Often,North America,1
+35.0,f,Yes,26-100,No,Not sure,No,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Rarely,Often,North America,1
+26.0,m,Yes,6-25,Yes,No,No,Yes,Somewhat difficult,Yes,No,No,Rarely,Often,North America,1
+25.0,m,No,100-500,Don't know,Yes,No,Yes,Don't know,Maybe,Some of them,Yes,Rarely,Not applicable to me,Europe,0
+40.0,m,I don't know,100-500,Not eligible for coverage / N/A,Yes,Yes,Yes,Somewhat difficult,No,No,No,Sometimes,Often,North America,1
+31.0,m,I don't know,6-25,Yes,Yes,No,Yes,Very easy,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+49.0,m,I don't know,26-100,Yes,No,No,Don't know,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Rarely,North America,1
+30.0,m,Yes,26-100,Don't know,No,No,Don't know,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,0
+35.0,m,No,100-500,Don't know,No,No,Don't know,Don't know,Maybe,Maybe,No,Not applicable to me,Not applicable to me,North America,0
+46.0,m,Yes,100-500,Yes,Yes,Yes,Don't know,Don't know,Yes,No,No,Rarely,Often,North America,1
+29.0,f,Yes,100-500,Don't know,Yes,No,Yes,Neither easy nor difficult,Maybe,Some of them,Maybe,Rarely,Sometimes,North America,1
+22.0,m,Yes,26-100,Yes,Yes,No,Don't know,Very easy,No,No,Yes,Sometimes,Often,North America,1
+50.0,f,Yes,100-500,Yes,Not sure,No,Yes,Very easy,Yes,No,No,Rarely,Sometimes,North America,1
+39.0,m,No,6-25,Don't know,No,No,Don't know,Very easy,Yes,Some of them,Maybe,Rarely,Rarely,North America,0
+40.0,m,No,6-25,No,No,Yes,Don't know,Neither easy nor difficult,Maybe,No,Yes,Sometimes,Often,Europe,1
+31.0,m,Yes,100-500,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Maybe,Sometimes,Sometimes,North America,1
+45.0,m,Yes,More than 1000,Yes,Yes,No,Don't know,Very difficult,No,No,No,Sometimes,Often,North America,1
+31.0,f,Yes,100-500,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,Rarely,Often,North America,1
+25.0,f,No,100-500,Yes,Yes,No,Yes,Very easy,Maybe,No,Maybe,Rarely,Not applicable to me,North America,1
+28.0,f,Yes,500-1000,Don't know,Yes,No,Yes,Don't know,Maybe,No,Yes,Rarely,Often,North America,1
+37.0,m,No,More than 1000,Yes,No,Yes,Don't know,Don't know,Maybe,Maybe,Maybe,Sometimes,Sometimes,Europe,0
+54.0,m,No,1-5,No,Not sure,No,No,Neither easy nor difficult,Maybe,Maybe,Maybe,Sometimes,Sometimes,North America,0
+45.0,f,Yes,More than 1000,Yes,Yes,Yes,Yes,Don't know,No,No,No,Rarely,Sometimes,North America,1
+36.0,m,Yes,500-1000,Yes,Yes,No,Don't know,Don't know,Yes,Maybe,No,Rarely,Often,North America,1
+34.0,f,I don't know,More than 1000,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Some of them,Maybe,Sometimes,Often,North America,1
+28.0,m,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+32.0,m,I don't know,More than 1000,Yes,Yes,No,Yes,Somewhat easy,Maybe,Some of them,Maybe,Rarely,Sometimes,North America,0
+52.0,f,Yes,500-1000,Don't know,No,Don't know,Don't know,Very difficult,Maybe,Some of them,Yes,Rarely,Sometimes,North America,1
+33.0,m,I don't know,26-100,Don't know,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+41.0,f,Yes,100-500,Yes,No,No,Don't know,Somewhat easy,Yes,No,No,Sometimes,Sometimes,North America,1
+25.0,f,No,100-500,Yes,No,Yes,Yes,Somewhat easy,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+36.0,other,No,26-100,Yes,Yes,No,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+23.0,f,Yes,100-500,Yes,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+37.0,m,No,6-25,No,Yes,No,Don't know,Somewhat easy,Yes,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+42.0,m,I don't know,100-500,Yes,Yes,Yes,Yes,Don't know,Maybe,Yes,Maybe,Sometimes,Often,North America,1
+35.0,f,Yes,100-500,Don't know,No,No,Don't know,Very difficult,Yes,Some of them,No,Rarely,Often,North America,1
+32.0,f,Yes,100-500,Yes,Yes,No,Yes,Somewhat difficult,Yes,Some of them,No,Not applicable to me,Not applicable to me,North America,1
+23.0,m,Yes,100-500,Don't know,No,Don't know,Yes,Very easy,No,No,Yes,Not applicable to me,Sometimes,North America,0
+35.0,f,Yes,100-500,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+34.0,f,No,100-500,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,Maybe,Rarely,Often,North America,1
+24.0,f,Yes,100-500,Don't know,No,Yes,Yes,Very easy,No,No,No,Not applicable to me,Sometimes,North America,0
+38.0,m,Yes,100-500,Yes,Yes,No,Don't know,Somewhat easy,Yes,Some of them,Yes,Sometimes,Often,North America,1
+42.0,m,No,100-500,No,Not sure,No,Don't know,Somewhat easy,No,No,Maybe,Sometimes,Often,Europe,1
+23.0,f,I don't know,100-500,Yes,Yes,No,Yes,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+39.0,other,I don't know,100-500,Yes,Yes,Don't know,Don't know,Very easy,Yes,No,Yes,Sometimes,Sometimes,North America,1
+30.0,m,Yes,100-500,Yes,No,Yes,Don't know,Don't know,No,Some of them,No,Rarely,Often,North America,1
+35.0,f,I don't know,100-500,Yes,Yes,Yes,Don't know,Very easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,1
+29.0,f,No,100-500,Yes,Yes,No,Yes,Somewhat easy,No,Some of them,No,Sometimes,Sometimes,North America,1
+24.0,f,I don't know,100-500,Yes,No,Yes,Don't know,Somewhat difficult,Yes,Yes,No,Not applicable to me,Not applicable to me,North America,0
+35.0,m,Yes,500-1000,Yes,No,Yes,Don't know,Somewhat easy,No,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+30.0,m,I don't know,100-500,Yes,Yes,No,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Sometimes,Often,North America,0
+28.0,f,No,6-25,Don't know,No,No,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,1
+32.0,f,Yes,100-500,Yes,Yes,Yes,Yes,Somewhat easy,Yes,No,No,Sometimes,Often,North America,1
+34.0,m,Yes,100-500,Yes,Yes,Yes,Yes,Very easy,Yes,No,Maybe,Sometimes,Sometimes,North America,1
+33.0,m,I don't know,26-100,Yes,Yes,No,Don't know,Very easy,Yes,Some of them,No,Never,Sometimes,North America,1
+32.0,m,No,100-500,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+27.0,f,I don't know,100-500,Yes,No,No,Don't know,Don't know,Yes,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+23.0,f,Yes,100-500,Yes,Yes,Yes,Don't know,Don't know,No,Maybe,No,Rarely,Sometimes,North America,1
+30.0,m,Yes,100-500,Not eligible for coverage / N/A,Not sure,No,Yes,Very easy,Maybe,Some of them,Yes,Rarely,Often,Europe,1
+24.0,m,Yes,100-500,Yes,Yes,Yes,Don't know,Very easy,Yes,Maybe,Yes,Sometimes,Often,North America,1
+34.0,f,Yes,100-500,Yes,Yes,Yes,Don't know,Very easy,Yes,No,No,Often,Often,North America,1
+32.0,m,I don't know,100-500,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+41.0,f,Yes,100-500,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,No,Sometimes,Often,North America,1
+37.0,m,I don't know,100-500,Yes,Yes,No,Don't know,Don't know,Maybe,Some of them,Maybe,Rarely,Often,North America,1
+26.0,m,Yes,26-100,Don't know,No,No,Don't know,Neither easy nor difficult,Yes,No,No,Not applicable to me,Not applicable to me,North America,1
+24.0,m,I don't know,6-25,Don't know,Not sure,No,Yes,Very easy,Maybe,Some of them,Yes,Rarely,Sometimes,North America,1
+44.0,m,No,26-100,Yes,Yes,No,Yes,Very easy,Yes,Maybe,Maybe,Rarely,Often,North America,1
+40.0,m,No,More than 1000,Don't know,No,No,Yes,Somewhat difficult,No,Yes,No,Not applicable to me,Not applicable to me,Europe,0
+27.0,other,Yes,More than 1000,Yes,No,Yes,Don't know,Don't know,No,No,Maybe,Sometimes,Often,North America,1
+40.0,m,I don't know,6-25,Don't know,No,No,Don't know,Somewhat easy,Maybe,No,No,Rarely,Sometimes,North America,1
+38.0,m,Yes,More than 1000,Yes,Yes,Yes,Yes,Very easy,Yes,Maybe,Maybe,Sometimes,Often,North America,1
+34.0,m,Yes,500-1000,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Maybe,Sometimes,Sometimes,North America,1
+27.0,f,I don't know,26-100,Yes,Yes,No,Don't know,Don't know,Maybe,No,No,Sometimes,Often,North America,1
+34.0,m,No,More than 1000,Yes,No,No,Don't know,Don't know,No,Some of them,No,Sometimes,Sometimes,North America,1
+26.0,m,Yes,26-100,No,Not sure,No,Don't know,Very easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+39.0,m,Yes,100-500,Yes,No,No,Yes,Very easy,Yes,Some of them,Maybe,Rarely,Often,North America,1
+33.0,other,Yes,100-500,No,Not sure,Yes,Don't know,Somewhat easy,Yes,Some of them,No,Sometimes,Often,Europe,1
+37.0,f,Yes,500-1000,Yes,Yes,No,Don't know,Don't know,Maybe,No,No,Sometimes,Often,North America,1
+30.0,m,I don't know,26-100,Don't know,No,Yes,Don't know,Somewhat easy,No,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+22.0,m,Yes,6-25,No,Not sure,No,Don't know,Very easy,Yes,Maybe,No,Not applicable to me,Not applicable to me,Europe,0
+51.0,f,No,6-25,Don't know,Not sure,No,Don't know,Very easy,Yes,Yes,Yes,Not applicable to me,Not applicable to me,North America,0
+24.0,m,Yes,More than 1000,Yes,Yes,Don't know,Don't know,Somewhat difficult,No,No,Yes,Sometimes,Sometimes,North America,1
+37.0,m,I don't know,More than 1000,Yes,No,No,Yes,Somewhat easy,No,Some of them,No,Rarely,Sometimes,North America,1
+46.0,m,No,500-1000,Yes,Yes,No,Yes,Very easy,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+50.0,m,I don't know,More than 1000,Yes,Yes,No,Don't know,Neither easy nor difficult,No,No,No,Rarely,Often,North America,1
+30.0,m,Yes,100-500,Yes,No,Don't know,Don't know,Neither easy nor difficult,Maybe,Some of them,Yes,Sometimes,Often,North America,1
+27.0,m,Yes,26-100,Don't know,Not sure,No,Don't know,Very easy,Yes,No,Maybe,Sometimes,Sometimes,North America,0
+32.0,m,Yes,More than 1000,Yes,Yes,Don't know,Don't know,Don't know,Yes,Some of them,Maybe,Sometimes,Often,North America,1
+34.0,m,Yes,6-25,Yes,Yes,No,Don't know,Very easy,No,Maybe,Maybe,Sometimes,Often,North America,1
+35.0,other,Yes,500-1000,Yes,Yes,No,Don't know,Very easy,Yes,Some of them,No,Sometimes,Often,North America,1
+33.0,other,I don't know,100-500,Not eligible for coverage / N/A,Not sure,No,Don't know,Neither easy nor difficult,Yes,Some of them,No,Sometimes,Often,Europe,1
+32.0,m,No,26-100,No,No,Yes,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,Asia,0
+31.0,m,No,More than 1000,Yes,Yes,Yes,Don't know,Neither easy nor difficult,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+33.0,m,Yes,More than 1000,Yes,Yes,No,Yes,Neither easy nor difficult,No,No,Maybe,Sometimes,Often,North America,1
+40.0,f,Yes,More than 1000,Yes,Yes,No,Don't know,Very difficult,No,Maybe,No,Sometimes,Sometimes,North America,1
+40.0,m,Yes,500-1000,Yes,Yes,No,Don't know,Neither easy nor difficult,Yes,Yes,Maybe,Not applicable to me,Not applicable to me,North America,0
+28.0,other,Yes,26-100,Yes,Yes,No,Don't know,Somewhat easy,Maybe,No,No,Sometimes,Often,North America,1
+25.0,m,I don't know,1-5,Don't know,No,No,Don't know,Very difficult,No,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+48.0,m,Yes,6-25,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Yes,Yes,Never,Rarely,North America,1
+43.0,f,Yes,More than 1000,Yes,Yes,Yes,Don't know,Very difficult,Maybe,Some of them,No,Rarely,Often,North America,1
+29.0,m,Yes,26-100,Yes,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+36.0,other,I don't know,More than 1000,Not eligible for coverage / N/A,Not sure,Yes,Don't know,Neither easy nor difficult,Yes,Some of them,Yes,Rarely,Sometimes,North America,1
+34.0,m,Yes,100-500,Yes,Yes,No,Yes,Very easy,Maybe,Some of them,Yes,Often,Often,North America,1
+31.0,f,I don't know,26-100,Not eligible for coverage / N/A,Yes,No,Don't know,Don't know,Maybe,No,No,Sometimes,Often,North America,1
+33.0,m,No,More than 1000,Yes,No,Don't know,Don't know,Somewhat easy,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,0
+49.0,m,I don't know,More than 1000,Yes,Yes,Yes,Don't know,Very difficult,No,No,No,Not applicable to me,Sometimes,North America,1
+30.0,f,No,6-25,No,No,No,Don't know,Somewhat difficult,No,Maybe,Yes,Not applicable to me,Not applicable to me,Oceania,0
+32.0,f,Yes,100-500,Yes,Yes,Yes,Don't know,Somewhat difficult,Maybe,Some of them,No,Sometimes,Often,North America,1
+40.0,f,No,100-500,Yes,No,No,Don't know,Don't know,Maybe,No,No,Never,Sometimes,North America,1
+28.0,m,No,26-100,No,Not sure,No,Don't know,Somewhat easy,Yes,Maybe,Yes,Rarely,Rarely,Europe,1
+21.0,f,No,More than 1000,No,No,Don't know,Don't know,Very difficult,No,Maybe,Yes,Not applicable to me,Not applicable to me,Asia,0
+46.0,m,Yes,500-1000,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,No,Often,Often,North America,1
+20.0,m,Yes,6-25,Not eligible for coverage / N/A,Not sure,No,Don't know,Neither easy nor difficult,Maybe,Maybe,Maybe,Rarely,Sometimes,Europe,1
+30.0,m,I don't know,More than 1000,Yes,Yes,Don't know,Don't know,Very easy,Maybe,Some of them,Yes,Rarely,Sometimes,North America,1
+44.0,f,No,100-500,Don't know,No,Yes,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Rarely,Rarely,North America,1
+35.0,m,I don't know,6-25,Don't know,No,Don't know,Don't know,Don't know,Maybe,Maybe,Yes,Sometimes,Often,North America,1
+35.0,m,I don't know,100-500,Don't know,No,No,Don't know,Very easy,Yes,Yes,Maybe,Often,Often,Europe,1
+30.0,m,No,6-25,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+22.0,f,Yes,100-500,Don't know,No,No,Yes,Very easy,Yes,Some of them,No,Not applicable to me,Not applicable to me,North America,1
+41.0,m,Yes,100-500,Yes,Yes,No,Don't know,Very difficult,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+32.0,m,No,26-100,Don't know,No,Don't know,Don't know,Neither easy nor difficult,No,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+48.0,m,No,100-500,Yes,Yes,No,Don't know,Very easy,Maybe,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+32.0,m,Yes,26-100,Yes,Not sure,No,Don't know,Neither easy nor difficult,Maybe,No,No,Rarely,Rarely,Europe,1
+30.0,m,I don't know,500-1000,Don't know,No,No,Don't know,Don't know,Maybe,No,Yes,Not applicable to me,Often,North America,0
+45.0,f,Yes,26-100,Yes,No,No,Yes,Very difficult,Maybe,No,Maybe,Rarely,Often,North America,1
+32.0,other,No,26-100,No,No,No,Don't know,Very difficult,Maybe,Maybe,No,Not applicable to me,Often,Europe,0
+30.0,m,I don't know,More than 1000,Don't know,No,No,Don't know,Don't know,Yes,Some of them,No,Rarely,Often,North America,1
+32.0,m,I don't know,6-25,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Maybe,Rarely,Rarely,North America,1
+37.0,f,Yes,100-500,Yes,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,No,Rarely,Often,North America,1
+30.0,m,No,6-25,Yes,No,No,Yes,Very easy,Yes,Some of them,Yes,Not applicable to me,Not applicable to me,North America,1
+35.0,f,I don't know,100-500,No,Not sure,No,No,Somewhat difficult,Maybe,No,No,Often,Often,Europe,1
+37.0,m,I don't know,More than 1000,Yes,No,Don't know,Don't know,Don't know,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,1
+26.0,m,Yes,26-100,No,Yes,No,Yes,Neither easy nor difficult,Yes,Some of them,Maybe,Rarely,Often,Europe,1
+50.0,m,Yes,26-100,Yes,Yes,No,Don't know,Somewhat easy,Maybe,Some of them,No,Rarely,Often,North America,1
+32.0,m,I don't know,6-25,Don't know,No,No,Don't know,Somewhat easy,No,Maybe,No,Not applicable to me,Not applicable to me,North America,0
+32.0,m,No,100-500,Don't know,No,Don't know,Yes,Very easy,Yes,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+23.0,m,No,1-5,Not eligible for coverage / N/A,Not sure,No,No,Somewhat difficult,Maybe,Maybe,Yes,Not applicable to me,Not applicable to me,North America,0
+40.0,f,Yes,26-100,Don't know,No,Don't know,Don't know,Don't know,Maybe,No,No,Sometimes,Sometimes,North America,1
+36.0,m,No,1-5,Don't know,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+24.0,f,Yes,26-100,Don't know,No,Don't know,Don't know,Don't know,Yes,Some of them,No,Sometimes,Often,North America,0
+29.0,f,No,6-25,Yes,No,No,Don't know,Don't know,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+28.0,m,I don't know,26-100,Yes,No,No,Don't know,Don't know,Yes,Yes,Maybe,Not applicable to me,Not applicable to me,North America,0
+51.0,m,No,26-100,No,Yes,No,Yes,Somewhat easy,No,Maybe,Maybe,Sometimes,Sometimes,North America,0
+36.0,m,Yes,26-100,Don't know,No,No,Yes,Very easy,Maybe,Yes,No,Not applicable to me,Not applicable to me,North America,0
+40.0,m,No,26-100,Yes,No,No,Yes,Somewhat easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+39.0,m,I don't know,100-500,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,No,Sometimes,Often,North America,1
+32.0,f,No,100-500,Don't know,No,Don't know,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Sometimes,Often,Europe,0
+45.0,m,Yes,100-500,No,No,Yes,No,Neither easy nor difficult,No,No,No,Never,Often,North America,0
+39.0,m,Yes,500-1000,Don't know,No,Don't know,Don't know,Neither easy nor difficult,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+46.0,m,I don't know,More than 1000,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,Maybe,Maybe,Sometimes,Often,North America,1
+34.0,m,I don't know,26-100,Don't know,No,No,Don't know,Somewhat difficult,Maybe,Some of them,Maybe,Sometimes,Sometimes,North America,0
+30.0,m,Yes,6-25,Don't know,Not sure,No,Don't know,Don't know,No,No,Maybe,Not applicable to me,Not applicable to me,Europe,0
+31.0,m,Yes,6-25,Not eligible for coverage / N/A,Not sure,No,Don't know,Very easy,Yes,Some of them,No,Sometimes,Often,North America,1
+28.0,m,Yes,26-100,Yes,Yes,No,No,Somewhat easy,No,No,Maybe,Often,Often,North America,1
+32.0,m,No,100-500,Yes,Yes,No,Yes,Neither easy nor difficult,Maybe,No,No,Not applicable to me,Not applicable to me,Europe,1
+39.0,m,I don't know,More than 1000,Don't know,No,Don't know,Don't know,Very difficult,No,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,1
+45.0,f,Yes,More than 1000,Yes,No,Yes,Yes,Somewhat easy,Yes,Some of them,Yes,Not applicable to me,Not applicable to me,North America,0
+36.0,f,I don't know,More than 1000,Yes,Yes,Yes,Yes,Don't know,Maybe,Some of them,Maybe,Rarely,Often,North America,1
+26.0,m,I don't know,500-1000,Yes,No,No,Don't know,Somewhat easy,Yes,Some of them,Maybe,Rarely,Often,North America,1
+55.0,f,I don't know,6-25,Don't know,No,No,Don't know,Don't know,Maybe,No,No,Not applicable to me,Not applicable to me,North America,1
+40.0,f,Yes,More than 1000,Yes,No,No,Don't know,Don't know,Maybe,Some of them,No,Rarely,Sometimes,North America,1
+27.0,f,Yes,More than 1000,Don't know,No,No,Don't know,Somewhat difficult,No,No,No,Sometimes,Often,North America,1
+45.0,f,Yes,More than 1000,Yes,Yes,Don't know,Yes,Neither easy nor difficult,Maybe,No,No,Sometimes,Often,North America,1
+34.0,f,No,26-100,No,No,No,Don't know,Very difficult,Yes,Yes,No,Never,Often,North America,1
+31.0,m,Yes,500-1000,Don't know,No,No,Don't know,Somewhat difficult,No,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+40.0,m,No,100-500,Yes,Yes,No,Don't know,Neither easy nor difficult,No,Some of them,Maybe,Sometimes,Often,North America,1
+41.0,m,Yes,26-100,Yes,Yes,No,Yes,Somewhat easy,Maybe,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+39.0,m,No,100-500,Don't know,No,No,Don't know,Don't know,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+39.0,m,No,6-25,Yes,Yes,No,Don't know,Somewhat difficult,No,No,No,Not applicable to me,Not applicable to me,North America,0
+37.0,m,I don't know,More than 1000,Don't know,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,Not applicable to me,Not applicable to me,North America,0
+32.0,m,No,6-25,Yes,No,Yes,Yes,Very easy,Yes,No,Yes,Sometimes,Sometimes,Europe,0
+24.0,m,Yes,100-500,Don't know,Not sure,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Yes,Not applicable to me,Not applicable to me,Europe,0
+40.0,f,No,More than 1000,Not eligible for coverage / N/A,Not sure,Don't know,Don't know,Very easy,Yes,Maybe,Yes,Not applicable to me,Not applicable to me,Europe,1
+25.0,other,Yes,26-100,Yes,No,No,Don't know,Neither easy nor difficult,Yes,No,Yes,Rarely,Sometimes,North America,1
+49.0,m,No,26-100,Yes,Yes,No,Yes,Don't know,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,0
+28.0,m,Yes,100-500,Don't know,No,No,Don't know,Somewhat easy,Maybe,Some of them,No,Rarely,Often,North America,1
+22.0,m,Yes,6-25,Not eligible for coverage / N/A,Not sure,No,Don't know,Very easy,Yes,Yes,No,Rarely,Often,North America,1
+41.0,m,No,More than 1000,Yes,No,No,Don't know,Somewhat easy,No,Maybe,Maybe,Not applicable to me,Not applicable to me,North America,0
+36.0,m,No,26-100,No,Not sure,No,Don't know,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Rarely,North America,0
+32.0,m,No,1-5,Don't know,No,No,Don't know,Somewhat easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,1
+23.0,m,Yes,500-1000,Don't know,No,No,Yes,Very difficult,Maybe,Yes,Yes,Not applicable to me,Often,North America,1
+53.0,m,Yes,100-500,Yes,Yes,No,Yes,Neither easy nor difficult,Maybe,No,No,Rarely,Often,North America,1
+34.0,m,Yes,100-500,Yes,Yes,No,Yes,Very difficult,Yes,Some of them,Yes,Sometimes,Often,North America,1
+30.0,m,Yes,More than 1000,No,Yes,Yes,Yes,Somewhat difficult,No,No,No,Sometimes,Sometimes,North America,1
+30.0,m,Yes,100-500,Don't know,No,No,Don't know,Somewhat easy,Maybe,Some of them,Yes,Rarely,Sometimes,North America,1
+22.0,f,Yes,6-25,Yes,Yes,No,Yes,Don't know,Maybe,No,No,Sometimes,Often,North America,1
+27.0,f,I don't know,26-100,Don't know,No,No,Don't know,Somewhat difficult,Maybe,No,Maybe,Rarely,Often,North America,1
+33.0,f,Yes,6-25,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Some of them,No,Sometimes,Often,North America,1
+28.0,m,Yes,26-100,Yes,Yes,No,Don't know,Somewhat difficult,Maybe,No,No,Not applicable to me,Not applicable to me,North America,0
+36.0,m,Yes,26-100,Yes,No,No,Don't know,Somewhat easy,No,No,No,Not applicable to me,Often,North America,1
+25.0,f,Yes,6-25,Don't know,No,No,Yes,Very easy,Yes,Yes,Yes,Sometimes,Not applicable to me,North America,0
+30.0,f,Yes,More than 1000,Not eligible for coverage / N/A,No,No,Don't know,Very difficult,Maybe,No,No,Not applicable to me,Not applicable to me,North America,1
+39.0,m,Yes,More than 1000,Yes,No,No,Don't know,Don't know,Maybe,No,Maybe,Not applicable to me,Not applicable to me,North America,0
+31.0,other,I don't know,100-500,Yes,No,Don't know,Don't know,Neither easy nor difficult,Yes,Some of them,Yes,Sometimes,Often,North America,1
+48.0,m,Yes,More than 1000,Yes,Yes,Yes,Don't know,Somewhat difficult,Maybe,Some of them,No,Sometimes,Sometimes,North America,0
+43.0,m,I don't know,100-500,Don't know,No,No,Don't know,Very easy,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+35.0,m,I don't know,More than 1000,Yes,No,No,No,Very easy,No,No,No,Not applicable to me,Sometimes,North America,0
+31.0,f,Yes,100-500,Yes,No,Yes,Don't know,Don't know,Maybe,Some of them,Yes,Sometimes,Often,North America,1
+28.0,m,I don't know,26-100,No,Not sure,No,No,Neither easy nor difficult,No,No,No,Rarely,Sometimes,Asia,0
+27.0,m,No,1-5,Don't know,Not sure,No,Don't know,Somewhat difficult,Maybe,Some of them,Maybe,Not applicable to me,Not applicable to me,North America,0
+28.0,m,No,1-5,Don't know,No,No,Don't know,Neither easy nor difficult,Yes,Yes,Yes,Not applicable to me,Not applicable to me,North America,1
+43.0,f,I don't know,500-1000,Yes,Yes,Don't know,Yes,Somewhat difficult,Maybe,Some of them,Maybe,Sometimes,Sometimes,North America,1
+31.0,f,Yes,More than 1000,Yes,Yes,No,Don't know,Very difficult,Maybe,No,No,Rarely,Often,North America,1
+37.0,m,No,More than 1000,Yes,No,No,Yes,Don't know,Yes,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+36.0,m,Yes,26-100,Yes,Yes,No,Don't know,Somewhat easy,Yes,Some of them,Maybe,Rarely,Often,North America,1
+42.0,f,Yes,100-500,Yes,Yes,No,Yes,Very easy,Yes,No,Maybe,Rarely,Often,North America,1
+29.0,f,I don't know,100-500,Yes,Yes,Don't know,Yes,Somewhat easy,Maybe,No,No,Rarely,Often,North America,1
+41.0,f,Yes,500-1000,Yes,Yes,Yes,Don't know,Somewhat easy,Maybe,Some of them,No,Rarely,Often,North America,1
+53.0,m,No,26-100,Yes,Yes,Yes,Yes,Don't know,Yes,No,No,Rarely,Sometimes,North America,1
+44.0,m,I don't know,500-1000,Don't know,No,No,Don't know,Very difficult,No,Maybe,Maybe,Never,Sometimes,North America,0
+37.0,f,No,100-500,Yes,Yes,Don't know,Don't know,Don't know,Maybe,Some of them,No,Not applicable to me,Not applicable to me,North America,0
+57.0,f,I don't know,26-100,Yes,No,No,Don't know,Neither easy nor difficult,Maybe,No,Maybe,Sometimes,Often,North America,1
+47.0,m,No,More than 1000,Yes,Yes,Yes,Yes,Very easy,No,Some of them,No,Never,Never,North America,1
+34.0,m,No,100-500,Yes,Yes,Yes,Yes,Neither easy nor difficult,Maybe,No,Yes,Not applicable to me,Not applicable to me,North America,1
+29.0,m,Yes,26-100,Yes,Yes,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Rarely,Often,North America,1
+38.0,m,No,500-1000,Don't know,No,No,Don't know,Very difficult,Maybe,No,Yes,Rarely,Often,North America,1
+41.0,m,No,26-100,Don't know,No,No,Yes,Very easy,Yes,Some of them,Maybe,Not applicable to me,Not applicable to me,Europe,1
+40.0,m,No,6-25,Yes,No,Don't know,Yes,Very easy,Yes,Yes,Yes,Sometimes,Often,North America,1
+30.0,m,No,26-100,Yes,Yes,No,No,Very easy,No,No,Maybe,Not applicable to me,Not applicable to me,North America,0
