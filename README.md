@@ -1,7 +1,7 @@
 # Machine-Learning-September-2023
 Project for Soft uni
-you can find all details in "Mental Prediction.ipynb"
-<b>The first part of teh project can be found here [https://github.com/izkreizwam1/Data-Science---Project-2023](https://github.com/izkreizwam1/Data-Science---Project-2023) <b>
+you can find all details in "Mental Prediction.ipynb"<br>
+<b>The first part of the project (where the data was prepared, preprocessed and analyzed) can be found here [https://github.com/izkreizwam1/Data-Science---Project-2023](https://github.com/izkreizwam1/Data-Science---Project-2023) <b>
 
 # Mental health in the Tech industry - Prediction
    ### by Tomislav Vasilev
